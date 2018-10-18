@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Iroyin</string>
+    <string name="no_current_news">No current News.</string>
+    <string name="no_internet">NO INTERNET CONNECTION FOUND!</string>
+    <string name="title">item_title</string>
+
+</resources>
